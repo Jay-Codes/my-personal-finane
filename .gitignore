@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore Diagram Files
+*.dio
+*.drawio
+*.drawio.png
+*.drawio.svg
+*.drawio.gif
+*.drawio.jpg
+*.drawio.bmp
+
+# Ignore _codux/boards
+_codux/boards/
